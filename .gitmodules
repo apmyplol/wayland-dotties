@@ -1,0 +1,9 @@
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = https://github.com/apmyplol/nvim-cfg
+[submodule ".config/hypr"]
+	path = .config/hypr
+	url = https://github.com/apmyplol/hyprland-config
+[submodule ".config/mpv"]
+	path = .config/mpv
+	url = https://github.com/apmyplol/mpvitas
