@@ -1,0 +1,12 @@
+alias dotties='/usr/bin/git --git-dir=/home/afa/.dotties/ --work-tree=/home/afa/'
+
+alias pacsyu='sudo pacman -Syu' # update only standard pkgs
+alias pacs='sudo pacman -S'
+alias pacrs='sudo pacman -Rs'
+alias pacown='pacman -Qo'
+alias n='nvim'
+
+alias neofetch='neofetch --colors 4 2 1 2 8 4 --ascii_colors 2 4'
+alias rm="trash"
+
+alias jukit_kitty="kitty --listen-on=unix:@"$(date +%s%N)" -o allow_remote_control=yes"
